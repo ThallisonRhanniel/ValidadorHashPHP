@@ -11,7 +11,7 @@ git@github.com:ThallisonRhanniel/ValidadorHashPHP.git
 ```
 Antes de usar o ValidadorHash, por favor instale:
 
-**Serviço no Windows. [Clique Aqui](https://github.com/ThallisonRhanniel/ServicoWcf) para saber mais.**
+**Serviço no Windows que contem os dados. [Clique Aqui](https://github.com/ThallisonRhanniel/ServicoWcf) para saber mais.**
 
 [Bootstrap](https://github.com/twbs/bootstrap/archive/v4.0.0-beta.zip)
 
